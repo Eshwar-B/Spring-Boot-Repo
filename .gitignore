@@ -1,0 +1,12 @@
+".metadata/" 
+"*.log" 
+.metadata/
+*.log
+*.class
+*.tmp
+*.bak
+*.swp
+.DS_Store
+target/
+build/
+.gradle/
