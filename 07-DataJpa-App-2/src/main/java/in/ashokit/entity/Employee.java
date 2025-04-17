@@ -11,7 +11,7 @@ public class Employee {
 	private String empGender;
 	private String empCountry;
 	private String empName;
-	private double empSalary;
+	private Double empSalary;
 	
 	
 	public void setEmpId(Integer empId) {
@@ -26,7 +26,7 @@ public class Employee {
 	public void setEmpname(String empname) {
 		this.empName = empname;
 	}
-	public void setEmpSalary(double empSalary) {
+	public void setEmpSalary(Double empSalary) {
 		this.empSalary = empSalary;
 	}
 	
